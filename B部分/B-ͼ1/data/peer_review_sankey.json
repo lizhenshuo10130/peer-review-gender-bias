@@ -62,12 +62,12 @@
     {
       "source": 0,
       "target": 5,
-      "value": 148411
+      "value": 82
     },
     {
       "source": 0,
       "target": 6,
-      "value": 82
+      "value": 148411
     },
     {
       "source": 1,
@@ -87,32 +87,32 @@
     {
       "source": 2,
       "target": 5,
-      "value": 67
+      "value": 6476
     },
     {
       "source": 2,
       "target": 6,
-      "value": 6476
+      "value": 67
     },
     {
       "source": 3,
       "target": 5,
-      "value": 33766
-    },
-    {
-      "source": 3,
-      "target": 6,
       "value": 122750
     },
     {
+      "source": 3,
+      "target": 6,
+      "value": 33766
+    },
+    {
       "source": 4,
       "target": 5,
-      "value": 743
+      "value": 35823
     },
     {
       "source": 4,
       "target": 6,
-      "value": 35823
+      "value": 743
     },
     {
       "source": 7,
@@ -266,7 +266,7 @@
     }
   ],
   "meta": {
-    "input_file": "data\\AllPapers.csv",
+    "input_file": "data/AllPapers.csv",
     "n_manuscripts": 348118,
     "description": "Peer review is represented as a multi-stage process, not as a single outcome."
   }
